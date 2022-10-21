@@ -18,7 +18,7 @@
  
 </p>
 <p align="center">
-🔗[Clique aqui para acessar](https://credit-card-pi.vercel.app/)
+🔗Clique aqui para acessar 🖱 https://credit-card-pi.vercel.app/
 </p>
 
 ## 🛠 Tecnologias
