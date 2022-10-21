@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
  
 </p>
 
@@ -29,7 +29,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Projeto inicialmente criado com o bundler Vite utilizando as funcionalidades de máscara para os campos do formulário, iMask como biblioteca e expressões regulares do JavaScript para construir uma interface de usuário. Os eventos para atualizar elementos HTML com a DOM.
+Projeto inicialmente criado com o bundler Vite utilizando as funcionalidades de máscara para os campos do formulário, iMask como biblioteca e expressões regulares do JavaScript para construir uma interface de usuário. 
+Eventos para atualizar elementos HTML com a DOM.
 
 
 
