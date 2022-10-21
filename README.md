@@ -9,8 +9,6 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
 
-![preview](./img/p.PNG)
-
 <br>
 
 <p align="center">
