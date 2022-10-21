@@ -8,13 +8,13 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
-</p>
 
+![preview](./img/p.PNG)
 
 <br>
 
 <p align="center">
-   ![preview](./img.PNG)
+ 
 </p>
 
 🔗[Clique aqui para acessar](https://credit-card-pi.vercel.app/)
