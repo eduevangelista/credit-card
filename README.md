@@ -13,7 +13,7 @@
 
   
   <p align="center">
-  <img alt="rocketpay" src=".github/img.PNG" width="65%">
+  <img alt="rocketpay" src=".github/img.PNG" width="70%">
 </p>
  
 </p>
