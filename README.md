@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="rocketpay" src=".github/img.png" width="100%">
+   <img alt="rocketpay" src=".github/img.png" width="100%">
 </p>
 
 🔗[Clique aqui para acessar](https://credit-card-pi.vercel.app/)
