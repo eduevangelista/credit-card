@@ -1,7 +1,7 @@
 <h1 align="center"> Credit Card </h1>
 
-<p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+<p align="center">Formulário de preenchimento de cartão de crédito
+
 </p>
 
 <p align="center">
@@ -23,14 +23,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - JavaScript e JSON
-- [Node e NPM](https://nodejs.org/)
-- [Vite](https://vitejs.dev/)
+- Node e NPM
+- Vite
 - [iMask](https://imask.js.org)
 
 ## 💻 Projeto
 
-O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
-
+Projeto inicialmente criado com o bundler Vite utilizando as funcionalidades de máscara para os campos do formulário, iMask como biblioteca e expressões regulares do JavaScript para construir uma interface de usuário. Os eventos para atualizar elementos HTML com a DOM.
 
 
 
