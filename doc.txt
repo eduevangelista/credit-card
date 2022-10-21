@@ -1,0 +1,5 @@
+Nesta aula nós iremos configurar nosso Ambiente com VSCode e Node, além iniciar nosso projeto com o bundler Vite e dar os primeiros passos na DOM.
+
+Nesta aula nós iremos criar algumas funcionalidades de máscara para os campos do formulário, utilizando o iMask como biblioteca e expressões regulares do JavaScript para construir uma interface de usuário profissional.
+
+Nesta aula nós iremos adicionar os eventos para atualizar elementos HTML com a DOM, além de fazer o deploy da nossa aplicação para adicionar ao nosso portfólio de projetos. Além disso, você vai saber os próximos passos para continuar acelerando na carreira em programação.
