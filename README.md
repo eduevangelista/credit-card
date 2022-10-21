@@ -32,6 +32,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Projeto inicialmente criado com o bundler Vite utilizando as funcionalidades de máscara para os campos do formulário, iMask como biblioteca e expressões regulares do JavaScript para construir uma interface de usuário. 
 Eventos para atualizar elementos HTML com a DOM.
 
+Criado no evento da Rocketseat
+
 
 
 
