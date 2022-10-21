@@ -17,6 +17,8 @@
   <img alt="rocketpay" src=".github/project.png" width="100%">
 </p>
 
+🔗[Clique aqui para acessar](https://credit-card-pi.vercel.app/)
+
 ## 🛠 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -31,6 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Projeto inicialmente criado com o bundler Vite utilizando as funcionalidades de máscara para os campos do formulário, iMask como biblioteca e expressões regulares do JavaScript para construir uma interface de usuário. 
 Eventos para atualizar elementos HTML com a DOM.
+Vercel para publicação do site
 
 Criado no evento da Rocketseat
 
