@@ -12,13 +12,14 @@
 <br>
 
   
-  <p align="left">
+  <p align="center">
   <img alt="rocketpay" src=".github/img.PNG" width="70%">
 </p>
  
 </p>
-
+<p align="center">
 🔗[Clique aqui para acessar](https://credit-card-pi.vercel.app/)
+</p>
 
 ## 🛠 Tecnologias
 
